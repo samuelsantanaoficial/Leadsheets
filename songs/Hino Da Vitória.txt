@@ -1,0 +1,27 @@
+%TITLE="Hino Da Vitória"
+%SUB_TITLE="Com Muito Louvor"
+%ARTIST="Cassiane"
+%KEY="F"
+%SHOW_FOOTER="NO"
+
+[Intro]
+| (4/4) F | Bbm | F | Bbm | 
+<| F | C9sus4 C9 || 
+
+[Verso]
+||: F | Am7 | Bb , , F/A | Gm7 | 
+| Dm7 Dm7/C | Bb , , F/A | Gm7 G | C9sus4 C9 :|| 
+<| F , C9sus4 || 
+
+[Refrão]
+||: <S> F | Dm7 | Gm7 , , F/A | Bb C :|| 
+<| F , C9sus4 || 
+
+[Ponte]
+| F:4 r:2. | r:4 Dm7:2. | r:4 Gm7:2  F/A:4 | Bb:4 r:4 C:4 :4 | 
+| r:4 F:2. | r:4 Dm7:2. | r:4 Gm7:2  F/A:4 | Bb:4 r:4 C:4 :4 | 
+<| F C <D.S.> || 
+
+[Final]
+|| F | Bb C | Dm7 C | Bb C | 
+<| Bb | F ||. 

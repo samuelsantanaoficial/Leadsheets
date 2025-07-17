@@ -1,0 +1,32 @@
+%TITLE="Meu Prazer"
+%SUB_TITLE="Adoração"
+%ARTIST="M. Koynonia de Louvor"
+%KEY="A"
+%SHOW_FOOTER="NO"
+
+[Intro]
+| (2/4) A | E/A | D/A | E/A | 
+| A | E/B | D/C# | E9sus4 || 
+
+[Verso]
+||: <S> A | ./. | E/A | ./. | 
+| D/A | ./. | A | [1.] E9sus4 :|| 
+>| A E/G# || 
+
+[Pré Refrão]
+||: F#m | F#mM7/E# | F#m7/E | D#m7b5 | 
+| [1.] D | ./. | A | A E/G# :|| 
+| D | Bm7 | E9sus4 | E9 || 
+
+[Refrão]
+|| D | ./. | E | ./. | 
+| D/F# | ./. | E/G# | C#7 | 
+| F#m7 | E | D | E | 
+| A | E/G# | F#m7 | E | 
+<| D | E <to Coda> || 
+
+[Solo]
+|| A | E/A | D/A | E9sus4 <D.S.> || 
+
+[Final]
+||: <Coda> A | C#m7 | D | E9sus4 E9 :||x4 

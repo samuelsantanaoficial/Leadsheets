@@ -1,0 +1,43 @@
+%TITLE="Céu De Santo Amaro"
+%SUB_TITLE=""
+%ARTIST="J. S. Bach / Flávio Venturini"
+%SHOW_STAFF="YES"
+%KEY="D"
+
+[Intro]
+| (4/4) D , | A/C# | G/B Em7 | D/A A7 || 
+
+[A]
+||: D , | A/C# Bbdim7 | Bm7 Em7 | A/C# A7 | 
+<| Dsus4:2 , D:4 A/C#:4 || 
+
+[B]
+|| Bm7 Bm7/A | E/G# E7 | A E/G# | 
+| D/F# , Bm7 Bm7/A | E/G# , E7 E/G# | A E/G# D/F# AM7/E | 
+<| DM7 Bm7 E7 , | A7sus4 A7 :|| 
+
+[Solo]
+|| F#m7b5 | B7 C | Ebdim7 F#dim7 | Em | 
+| Em/D | C | Em/B B7 | Em7 , , Em7/D || 
+
+[Solo]
+|| A/C# | D D7/C | G/B , C/E D/F# | 
+| Gsus4:4 G:2 D/F#:4 || (5/4) A/E:4 D/F#:4 G:4 A:4 G/B:4 || 
+|| (4/4) A/C# A7 | D G | E/G# A7sus4 || (2/4) A7 || 
+
+[Solo]
+||: (4/4) D , | A/C# Bbdim7 | Bm7 Em7 | 
+<| A/C# A7 | Dsus4:2 , D:4 A/C#:4 || 
+
+[B]
+|| Bm7 Bm7/A | E/G# E7 | A E/G# | 
+| D/F# , Bm7 Bm7/A | E/G# , E7 E/G# | A E/G# D/F# AM7/E | 
+<| DM7 Bm7 E7 , | A7sus4 A7 :|| 
+
+[C]
+||: D , | A/C# Bbdim7 | Bm7 Em7 | A/C# A7 | 
+| Dsus4:2 D:4 D7/C:4 | GM7:2. D/F#:4 | Em7:2 A7:2 | Bm7 Bm7/A | 
+| G#m7b5:2 GM7:2 | D/F# Em7 | A7 || 
+
+[Final]
+|| D | Gm7/D | D | Gm7/D ||. 
