@@ -1,42 +1,46 @@
 {
-  "name": "Fumen - Criador de Leadsheets",
-  "short_name": "Fumen",
-  "description": "Crie leadsheets musicais com sintaxe simples e intuitiva. Funciona offline!",
-  "start_url": "/",
-  "display": "standalone",
-  "background_color": "#ffffff",
-  "theme_color": "#343a40",
-  "orientation": "any",
-  "scope": "/",
-  "icons": [
-    {
-      "src": "icon-192x192.png",
-      "sizes": "192x192",
-      "type": "image/png",
-      "purpose": "any maskable"
-    },
-    {
-      "src": "icon-512x512.png",
-      "sizes": "512x512",
-      "type": "image/png",
-      "purpose": "any maskable"
-    }
-  ],
-  "shortcuts": [
-    {
-      "name": "Nova Leadsheet",
-      "short_name": "Nova",
-      "description": "Criar uma nova leadsheet",
-      "url": "/",
-      "icons": [
+    "name": "Leadsheets",
+    "short_name": "Leadsheets",
+    "description": "Crie leadsheets musicais com sintaxe simples e intuitiva. Funciona offline!",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "theme_color": "#343a40",
+    "orientation": "any",
+    "scope": "/",
+    "icons": [
         {
-          "src": "icon-192x192.png",
-          "sizes": "192x192"
+            "src": "icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png",
+            "purpose": "any maskable"
+        },
+        {
+            "src": "icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png",
+            "purpose": "any maskable"
         }
-      ]
-    }
-  ],
-  "categories": ["music", "productivity", "utilities"],
-  "lang": "pt-BR",
-  "dir": "ltr"
+    ],
+    "shortcuts": [
+        {
+            "name": "Nova Leadsheet",
+            "short_name": "Nova",
+            "description": "Criar uma nova leadsheet",
+            "url": "/",
+            "icons": [
+                {
+                    "src": "icon-192x192.png",
+                    "sizes": "192x192"
+                }
+            ]
+        }
+    ],
+    "categories": [
+        "music",
+        "productivity",
+        "utilities"
+    ],
+    "lang": "pt-BR",
+    "dir": "ltr"
 }
